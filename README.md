@@ -521,3 +521,13 @@ C B A
 D C B A
 E D C B A
 ```
+
+pattern 52:
+
+```
+A
+B B
+C C C
+D D D D
+E E E E E
+```
