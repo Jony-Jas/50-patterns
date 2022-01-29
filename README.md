@@ -541,3 +541,13 @@ C C C
 B B
 A
 ```
+
+pattern 54:
+
+```
+A
+B C
+D E F
+G H I J
+K L M N O
+```
